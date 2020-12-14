@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+    <title>ProScoccer</title>
+    <link rel="stylesheet" href="css/Style.css">
+</head>
+<body>
+    <header>
+        <img src="img/Logoa.png" alt="logoa">
+       
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html" style="color: white;">Hasiera</a></li>
+            <li><a href="katalogoa.html"style="color: white;">Katalogoa</a></li>
+            <li><a href="nobedadeak.html"style="color: white;">Nobedadeak</a></li>
+            <li><a href="eskaintzak.html"style="color: white;">Eskaintzak</a></li>
+            <li><a href="kontaktua.html"style="color: white;">Kontaktua</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div id="main1">
+        <h1>DESKONTUA!</h1>
+        <img src="img/bota1.jpg" id="bota1">
+        <h2>Nike Phantom Vision II</h2>
+        <img src="img/bota2.png" id="bota2">
+        <h2>Adidas Copa +</h2>
+       
+        </div>
+        <video src="/mp4/NUEVAS NIKE PHANTOM VSN · PRUEBA EN CAMPO.mp4" controls id="videophantom"></video>
+        <h2> Phantom Vision II Aurkezpena</h2>
+    </main>
+    <section>
+	
+        <div id="adidas"><h2>ADIDAS</h2><img id="adidaslogo" src="img/adidaslogo.jpg"></div>
+        <div id="nike"><h2>NIKE</h2><img id="nikelogo" src="img/nikelogo.jpg"></div>
+        <div id="puma"><h2>PUMA</h2><img id="pumalogo" src="img/pumalogo.jpg"></div>
+        <div id="joma"><h2>JOMA</h2><img id="jomalogo" src="img/logojoma.png"></div>
+        <div id="new"><h2>NEW BALANCE</h2><img id="newbalancelogo" src="/img/newbalancelogo.jpg"></div>
+        <div id="munich"><h2>MUNICH</h2><img id="munichlogo" src="/img/munichlogo.jpg"></div>
+       
+    </div>
+        </section>
+        <footer>
+            <p>&copy; 2020 ProSoccer</p>
+        </footer>
+</body>
+</html>
